@@ -1,0 +1,6 @@
+{
+  "name": "Auralis — Voice Cloning & Audio Synthesis Platform",
+  "description": "High-fidelity AI voice generator, instant and professional voice cloning lab, multi-speaker text-to-speech studio, and AI video dubbing platform powered by the ElevenLabs API architecture.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
